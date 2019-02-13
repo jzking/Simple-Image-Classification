@@ -1,1 +1,1 @@
-# Simplie-Image-Classification
+# Simple-Image-Classification
